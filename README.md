@@ -1,1 +1,1 @@
-# nokia-game
+# ICS2O final project game
